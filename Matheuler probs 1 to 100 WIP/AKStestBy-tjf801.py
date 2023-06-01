@@ -1,3 +1,5 @@
+#this is a line by line copy of AKS test implemented by Github memeber tjf801. I copied it for academic purposes and to apply it in tests on big numbers where precision is more important than performance.
+
 from math import floor, ceil, sqrt, gcd, log2, log10
 from decimal import *
 
